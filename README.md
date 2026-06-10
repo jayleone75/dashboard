@@ -4,7 +4,7 @@ A self-hosted, multi-deal sales tracker. Dashboard + a tab per opportunity, chec
 
 ---
 
-## What's in here
+## What's in here 
 
 ```
 exagrid-dashboard/
